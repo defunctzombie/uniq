@@ -2,9 +2,10 @@
   "name": "uniq-component",
   "author": "Damian Suarez <rdsuarez@gmail.com>",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "indexof": "0.0.1"
+  },
   "devDependencies": {
-    "indexof-component": "0.0.1",
     "mocha": "*",
     "should": "*"
   },

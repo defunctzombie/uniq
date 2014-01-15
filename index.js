@@ -3,11 +3,7 @@
  * dependencies
  */
 
-try {
-  var indexOf = require('indexof');
-} catch(e){
-  var indexOf = require('indexof-component');
-}
+var indexOf = require('indexof');
 
 /**
  * Create duplicate free array
