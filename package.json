@@ -1,5 +1,5 @@
 {
-  "name": "uniq-component",
+  "name": "@defunctzombie/uniq-component",
   "author": "Damian Suarez <rdsuarez@gmail.com>",
   "version": "1.0.0",
   "dependencies": {
